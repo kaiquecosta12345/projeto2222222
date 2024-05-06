@@ -15,7 +15,7 @@
             <li>homem perigoso procurado</li>
             <li>Bluezão individuo altamente perigoso
             procurado vivo ou morto 
-            recompresa:9999999999999999999</li>
+            recompresa:R$9999999999999999999</li>
         </ul>
     </header>
 
